@@ -1,0 +1,73 @@
+.myBG {
+  height: 100vh;
+  background: url("../assets/images/bg/bg\ Riq\ CInema.jpg");
+  background-size: cover;
+}
+
+.intro {
+  height: 300px;
+  display: flex;
+  justify-content: end;
+  align-items: end;
+}
+
+.title {
+  font-size: 3rem;
+  font-weight: 800;
+  line-height: 1;
+  align-items: center;
+  display: flex;
+  justify-content: center;
+  text-shadow: 4px 4px black;
+  letter-spacing: 3px;
+}
+
+.trendingAnime {
+  height: auto;
+  background: url("../assets/images/bg/bg\ Riq\ CInema.jpg");
+  background-size: cover;
+}
+
+.trendingManga {
+  height: auto;
+  background: url("../assets/images/bg/bg\ Riq\ CInema.jpg");
+  background-size: cover;
+}
+
+.allList {
+  height: auto;
+  background: url("../assets/images/bg/bg\ Riq\ CInema.jpg");
+  background-size: cover;
+}
+
+.movieImage {
+  height: auto;
+  margin: 5px;
+  padding: 5px;
+}
+
+.images {
+  height: 500px;
+}
+
+.backTop {
+  cursor: pointer;
+  font-size: 3em;
+  display: flex;
+  justify-content: center;
+  align-content: center;
+  position: fixed;
+  border-radius: 15px;
+  bottom: 5px;
+  right: 20px;
+  width: 50px;
+  height: 50px;
+  color: white;
+}
+
+.colorGenre {
+  color: yellowgreen;
+}
+.colorIntro {
+  color: yellowgreen;
+}
