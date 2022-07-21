@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/WebLandingPage_Anime_ReactJS/static/css/main.555363b0.css",
+    "main.js": "/WebLandingPage_Anime_ReactJS/static/js/main.f238a583.js",
+    "static/js/787.7a289192.chunk.js": "/WebLandingPage_Anime_ReactJS/static/js/787.7a289192.chunk.js",
+    "static/media/bg Riq CInema.jpg": "/WebLandingPage_Anime_ReactJS/static/media/bg Riq CInema.7ab98e33b477002a5108.jpg",
+    "static/media/spyxfamily.png": "/WebLandingPage_Anime_ReactJS/static/media/spyxfamily.477b962aef6260227fca.png",
+    "static/media/vinland.png": "/WebLandingPage_Anime_ReactJS/static/media/vinland.6e56de23d885f9d735b8.png",
+    "static/media/onepiece.jpg": "/WebLandingPage_Anime_ReactJS/static/media/onepiece.6fe94728802e3c5a8d8b.jpg",
+    "static/media/tate.jpg": "/WebLandingPage_Anime_ReactJS/static/media/tate.273bc062345a8bb31174.jpg",
+    "static/media/chain.jpg": "/WebLandingPage_Anime_ReactJS/static/media/chain.831ec5176a37aad5c608.jpg",
+    "static/media/kny.jpg": "/WebLandingPage_Anime_ReactJS/static/media/kny.9a8ffa7ca20674372e3c.jpg",
+    "static/media/mushoku.png": "/WebLandingPage_Anime_ReactJS/static/media/mushoku.2dc084af838679ddc085.png",
+    "static/media/ousama.jpg": "/WebLandingPage_Anime_ReactJS/static/media/ousama.fd5295c5cf384a08b44b.jpg",
+    "static/media/aot.png": "/WebLandingPage_Anime_ReactJS/static/media/aot.7bf4610c1fa025bd1b3c.png",
+    "index.html": "/WebLandingPage_Anime_ReactJS/index.html",
+    "main.555363b0.css.map": "/WebLandingPage_Anime_ReactJS/static/css/main.555363b0.css.map",
+    "main.f238a583.js.map": "/WebLandingPage_Anime_ReactJS/static/js/main.f238a583.js.map",
+    "787.7a289192.chunk.js.map": "/WebLandingPage_Anime_ReactJS/static/js/787.7a289192.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.555363b0.css",
+    "static/js/main.f238a583.js"
+  ]
+}
